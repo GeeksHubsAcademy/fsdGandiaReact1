@@ -1,0 +1,13 @@
+
+.headerDesign {
+
+    height: 10vh;
+    width: 100vw;
+
+    background-color: aquamarine;
+
+    display: flex;
+    align-items: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
