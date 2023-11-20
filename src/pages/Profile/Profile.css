@@ -1,0 +1,46 @@
+
+.profileDesign {
+
+    height: 90vh;
+    width: 100vw;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background-color: lightgrey;
+
+    font-weight: bold;
+}
+
+.rosterDesign {
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.videogameDesign {
+
+    height: 12em;
+    width: 10em;
+
+    border-radius: 1em;
+
+    background-color: beige;
+    transition: 0.3s;
+    cursor: pointer;
+
+    margin : 1em;
+}
+
+.videogameDesign:hover {
+
+    transition: 0.3s;
+    background-color: bisque;
+}
+
+.avatarGame {
+    height: 8em;
+    width: 7em;
+}
